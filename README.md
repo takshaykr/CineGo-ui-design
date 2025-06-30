@@ -20,7 +20,7 @@ CineGo is a sleek and intuitive mobile UI concept for a movie ticket booking app
 
 | Home Screen | Movies List | Movie Details | Booking Screen |
 |-------------|-------------|---------------|----------------|
-| ![Home](https://github.com/takshaykr/CineGo-ui-design/blob/main/screenshots/HOMEPAGE1.png?raw=true)) | ![List](https://github.com/takshaykr/CineGo-ui-design/blob/main/screenshots/MOVIEDETAILS1.png?raw=true) | ![Detail](https://github.com/takshaykr/CineGo-ui-design/blob/main/screenshots/MOVIELISTAPGE1.png?raw=true) | ![Booking](screenshots/booking.png) |
+| ![Home](https://github.com/takshaykr/CineGo-ui-design/blob/main/screenshots/HOMEPAGE1.png?raw=true)) | ![List](https://github.com/takshaykr/CineGo-ui-design/blob/main/screenshots/MOVIEDETAILS1.png?raw=true) | ![Detail](https://github.com/takshaykr/CineGo-ui-design/blob/main/screenshots/MOVIELISTAPGE1.png?raw=true) | ![Booking]([screenshots/booking.png](https://github.com/takshaykr/CineGo-ui-design/blob/main/screenshots/SEATBOOKING1.png?raw=true)) |
 
 ---
 
