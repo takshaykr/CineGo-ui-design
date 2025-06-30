@@ -58,6 +58,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 🙋‍♂️ Author
 
 **Takshay Kumar**  
-[LinkedIn](https://www.linkedin.com/in/takshay-kumar-55a25525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
-[GitHub](https://github.com/takshaykr)
+[LinkedIn](https://www.linkedin.com/in/takshay-kumar-55a25525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/takshaykr)
 
